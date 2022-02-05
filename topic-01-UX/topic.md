@@ -8,6 +8,6 @@ icon:
 
 ---
 
-# Student Experience
+# Learner Experience
 
 Comsuning a Tutors Course
