@@ -1,3 +1,3 @@
 # Tutors Documentation
 
-Documentation for the Tutors application.
+Tutors: An Open Learning Web Toollkit
