@@ -2,9 +2,7 @@
 
 icon: 
 
-  type: vscode-icons:file-type-light-json
-
-  color: FBBF2C
+  type: flat-color-icons:timeline
 
 ---
 

@@ -2,7 +2,7 @@
 
 icon: 
 
-  type: logos:typescript
+  type: flat-color-icons:serial-tasks
 
 ---
 

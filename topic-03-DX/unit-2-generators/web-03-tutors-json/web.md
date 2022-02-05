@@ -2,9 +2,8 @@
 
 icon: 
 
-  type: vscode-icons:file-type-light-json
+  type: flat-color-icons:org-unit
 
-  color: FBBF2C
 
 ---
 

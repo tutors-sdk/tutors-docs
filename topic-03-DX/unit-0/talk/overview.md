@@ -2,8 +2,7 @@
 
 icon: 
 
-  type: grommet-icons:overview
-  color: FBBF2C
+  type: flat-color-icons:binoculars
 
 
 ---

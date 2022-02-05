@@ -2,7 +2,7 @@
 
 icon: 
 
-  type: logos:html-5
+  type: flat-color-icons:mind-map
 
   color: pink
 

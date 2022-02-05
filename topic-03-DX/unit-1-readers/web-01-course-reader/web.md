@@ -2,9 +2,8 @@
 
 icon: 
 
-  type: logos:svelte-icon
+  type: flat-color-icons:genealogy
 
-  color: FF3F01
 
 ---
 
