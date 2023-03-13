@@ -10,4 +10,4 @@ icon:
 
 # Learner Experience
 
-Comsuning a Tutors Course
+Consuming a Tutors Course
