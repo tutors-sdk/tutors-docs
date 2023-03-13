@@ -1,3 +1,3 @@
 Learner Experience
 
-A summary of the Tutors Learner Experienc
+A summary of the Tutors Learner Experience
